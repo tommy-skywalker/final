@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752138386776",
+    "project_id": "custom-dodja-errand",
+    "storage_bucket": "custom-dodja-errand.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752138386776:android:bfb4110f5a32839172792d",
+        "android_client_info": {
+          "package_name": "com.dodjaerrands.dodjaerrands"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhK8l1MFQDzgXAB0p8YY9XLuUmPl_T8SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
